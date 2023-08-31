@@ -45,6 +45,8 @@ python, pandas, numpy, matplotlib, scipy, sklearn, lightgbm
 
 Код 2-й части проекта: [attr04_2_model.ipynb](https://github.com/petrochenkovp/leaders2023/blob/main/attr04_2_model.ipynb)
 
-Другие мои проекты: [Портфолио](https://github.com/petrochenkovp/portfolio)
+<br><br>
+
+Посмотреть [другие проекты](https://github.com/petrochenkovp/portfolio)
 
 <br><br>
