@@ -41,9 +41,9 @@ python, pandas, numpy, matplotlib, scipy, sklearn, lightgbm
 
 <br><br>
 
-Код 1-й части проекта: [attr04_1_get_features.ipynb](https://github.com/petrochenkovp/leaders2023/blob/main/attr04_1_get_features.ipynb)
+Код 1-й части проекта (подготовка признаков): [attr04_1_get_features.ipynb](https://github.com/petrochenkovp/leaders2023/blob/main/attr04_1_get_features.ipynb)
 
-Код 2-й части проекта: [attr04_2_model.ipynb](https://github.com/petrochenkovp/leaders2023/blob/main/attr04_2_model.ipynb)
+Код 2-й части проекта (обучение и предикты модели): [attr04_2_model.ipynb](https://github.com/petrochenkovp/leaders2023/blob/main/attr04_2_model.ipynb)
 
 <br><br>
 
