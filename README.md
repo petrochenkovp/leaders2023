@@ -47,6 +47,6 @@ python, pandas, numpy, matplotlib, scipy, sklearn, lightgbm
 
 <br><br>
 
-Посмотреть [другие проекты](https://github.com/petrochenkovp/portfolio)
+Посмотреть все проекты в [портфолио](https://github.com/petrochenkovp/portfolio)
 
 <br><br>
